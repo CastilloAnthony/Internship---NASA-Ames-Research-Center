@@ -1,0 +1,8 @@
+https://docs.python.org/3/
+
+https://docs.jupyter.org/en/latest/
+https://jupyterlab.readthedocs.io/en/latest/
+
+https://scikit-learn.org/stable/user_guide.html
+https://pandas.pydata.org/docs/
+https://matplotlib.org/stable/index.html
